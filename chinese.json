@@ -1,0 +1,73 @@
+{
+    "type": "lang", 
+    "name": "中文(简体) - Preview1", 
+    "lang": {
+        "untitled":"Untitled", 
+        "line":"行 ", 
+        "column":"列", 
+        "selected":"已选择", 
+        "themeli": ["浅色", "深色", "特制"],
+        
+        "file":"文件", 
+        "newfile":"新件文本文件", 
+        "newwindow":"新建窗口", 
+        "open":"打开文件", 
+        "save":"保存", 
+        "saveas":"保存为", 
+        "auto":"自动保存", 
+        "exit":"退出", 
+        
+        "edit":"编辑", 
+        "undo":"撤消", 
+        "redo":"恢复", 
+        "cut":"剪切", 
+        "copy":"复制", 
+        "paste":"粘贴", 
+        "find":"查找", 
+        "replace":"替换", 
+        
+        "encode":"编码", 
+        "convert":"转换", 
+        "reopen":"重新打开", 
+        
+        "run":"运行", 
+        "noconsole":"无控制台", 
+        "openwith":"打开用", 
+        "terminal":"终端", 
+        
+        "view":"查看", 
+        "fullscreen":"全屏", 
+        "wrap":"自动换行", 
+        "appearance":"外观", 
+        "bar":"栏", 
+        "side":"主侧边", 
+        "status":"状态", 
+        "activity":"活动", 
+        "panel":"面板", 
+        "fontset":"字体设置", 
+        "theme":"颜色主题", 
+        "syntax":"语法高亮", 
+        
+        "settings":"设置", 
+        "language":"配置显示语言", 
+        "autoupdate":"自动更新", 
+        "updatenow":"现在更新", 
+        "reset":"重置", 
+        
+        "help":"帮助", 
+        "about":"关于"
+    },
+    "messagetext":{
+        "langmsg" : [
+            "Save your changes", "Do you want to save the changes you made to file?", 
+            "Open File", "Do you want to open a large file?\n", 
+            "Settings", "Do you want to reset your settings?", 
+            "Json load Error", "settings.json file may have been rewritten.", 
+            "Unknown error.", "Unknown error", 
+            "Open File Error", "The file is not displayed in the text editor because it is either binary or uses an unsupported text encoding.", 
+            "Warning", "A restart is required to apply all settings.", 
+            "OpenCheck", "Do you want to open the saved file?"],
+        "msgisf": "The file could not be opened because the file was not found.\nCreate File?",
+        "font_set": ["Family", "Style", "Size", "default", "Custom setting"]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "type": "theme",
+    "name": "one dark pro",
+    "theme": {
+        "syntax": {
+            "Keyword": "#C678DD",
+            "Keyword.Constant": "#D19A56",
+            "Keyword.Namespace": "#C678DD",
+            "Name": "#e06c75",
+            "Name.Builtin": "#61AFEF",
+            "Name.Builtin.Pseudo": "#E5C07B",
+            "Name.Class": "#E5C07B",
+            "Name.Exception": "#E5C07B",
+            "Name.Function": "#61AFEF",
+            "Name.Function.Magic": "#56B6C2",
+            "Name.Namespace": "#E5C07B",
+            "Name.Variable.Magic": "#e06c75",
+            "Operator": "#56B6C2",
+            "Operator.Word": "#C678DD",
+            "Literal.String.Double": "#7BC379",
+            "Literal.String.Single": "#7BC379",
+            "Literal.String.Escape": "#56b6c2",
+            "Literal.String.Interpol": "#ABB2BF",
+            "Literal.String.Affix": "#C678DD",
+            "Literal.Number.Integer": "#d19a5e",
+            "Literal.Number.Float": "#d19a5e",
+            "Literal.String.Doc": "#000000",
+            "Punctuation": "#ABB2BF",
+            "Comment.Single": "#7f848e"
+        },
+        "text": {
+            "fore": "#abb2bf",
+            "back": "#282C34",
+            "sfore": "#abb2bf",
+            "sback": "#404859",
+            "insert": "#5c8bff",
+            "line": "#495162",
+            "insertline": "#abb2bf"
+        },
+        "menu": {
+            "bg": "#21252b",
+            "fg": "#abb2bf",
+            "abg": "#2c313a",
+            "afg": "#d7dae0"
+        },
+        "statusbar": {
+            "0": "#21252b",
+            "1": "#cc6633",
+            "0fg": "#abb2bf",
+            "1fg": "#abb2bf"
+        },
+        "link": {
+            "0": "#000000",
+            "1": "#0000ff"
+        }
+    }
+}
